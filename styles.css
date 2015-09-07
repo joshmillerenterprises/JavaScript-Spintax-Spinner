@@ -1,0 +1,21 @@
+	div.jumbotron{
+		box-shadow: 1px 1px 1px black;
+	}
+	div.container{
+		box-shadow:inset 1px 1px 1px black;
+		background-color: #fff;
+		padding:50px;
+	}
+	body{
+		background-color: #eee;
+	}
+	textarea{
+		
+		padding:10px;
+		width:100%;
+		max-width:100%;
+		border-radius: 5px;
+	}
+	input[type="button"]{
+		width:120px;
+		}
